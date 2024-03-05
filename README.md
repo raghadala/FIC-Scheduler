@@ -1,1 +1,2 @@
-# FIC-Scheduler
+## FIC Scheduler 🗓
+The FIC Scheduler is built using modern technologies to provide a robust and efficient scheduling solution. It leverages a combination of web-based technologies, including HTML, CSS, and JavaScript, to deliver a user-friendly and intuitive interface. This innovative tool not only ensures seamless navigation but also enhances operational efficiency within the institution. By incorporating advanced algorithms, it optimizes schedules based on room availability, professor schedules, and offered classes. The result is a responsive and intuitive scheduling solution, specifically designed to meet the unique needs of the FIC organization.
